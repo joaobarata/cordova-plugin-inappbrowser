@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-inappbrowser",
+  "name": "cordova-inappbrowser",
   "version": "7.0.0-1",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "cordova-inappbrowser",
     "platforms": [
       "android",
       "browser",
